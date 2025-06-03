@@ -31,8 +31,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 #
 
 <div>
-  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=ohakwn&show_icons=true&theme=dracula"/>
-  <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohakwn&theme=dracula"/>
+  <img align="left" alt="GitHub Stats" height="160" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=ohakwn&include_all_commits=true&show_icons=true&bg_color=000000&text_color=C69749&icon_color=282A3A&hide_title=true"/>
+  <img align="left" alt="GitHub Stats" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohakwn&bg_color=000000&text_color=C69749&icon_color=282A3A&hide_title=true"/>
 </div>
 
 <picture align="center">
