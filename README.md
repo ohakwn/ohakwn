@@ -1,6 +1,6 @@
 #
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Aranhaguera Educacional. Atualmente estou buscando um estágio.
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera. Atualmente estou buscando um estágio.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
 #
